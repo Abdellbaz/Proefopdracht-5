@@ -20,8 +20,8 @@ hoe moeilijker de lvl, hoe meer controle je hebt
 Dus koos ik voor **threejs**  om meer controle te hebben en het niet moeilijk te hebben
 
 ## Leerdoelen 
-wat wil ik hier mee bereiken   
-ik wil dat ik rond kan lopen door de wereld heenrond gaan kijken
+ik wil dat ik rond kan lopen door de wereld heen   
+rond gaan kijken  
 Huizen, bruggen, straten bouwen  
 en wat ik gemaakt heb kunnen vernietigen  
 ik wil dit samen kunnen spelen met andere op het web  
@@ -49,6 +49,5 @@ ik wil dit samen kunnen spelen met andere op het web
 **[MozilaDeveloper](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_collision_detection)**   
 
                                                                  
-## PLAY     
 
 
